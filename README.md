@@ -1,5 +1,7 @@
 # Effective Entailment Checking for Separation Logic with Inductive Definitions: Supplementary Material
 
+This repository contains the supplementary material for our TACAS 2019 paper "Effective Entailment Checking for Separation Logic with Inductive Definitions."
+
 ## Proofs and Extended Experimental Evaluation
 
 All proofs and an extended experimental evaluation can be found in a separate [appendix](https://github.com/katelaan/entailment/blob/master/appendix.pdf) avaliable [here](https://github.com/katelaan/entailment/blob/master/appendix.pdf).
